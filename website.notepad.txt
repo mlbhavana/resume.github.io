@@ -1,0 +1,33 @@
+
+<html>
+<head>
+<title> Resume Landing Page Design</title>
+<meta name="viewport" content=width="device-width, initial-scale=1.0">
+<link type="text/css" rel="stylesheet" href="website.css">
+</head>
+<body>
+<div class="profile-img">
+<img src="girl.jpg">
+</div>
+<div class="profile-info">
+<h1> Bhavana M L </h1>
+<p class="about"> Highly motivated to make the best possible use of my skills acquired during the year of my study and to work to the fullest of my ability to the growth of self along with the growth of organisation.</p></br>
+<div class="social-media">
+<img src="facebook.jpg">
+<img src="whatsapp.jpg">
+<img src="twitter.jpg">
+</div><br>
+<div class="skills">
+<h2> My Skills </h2><br>
+<p> HTML </p>
+<div class="container">
+<div class="skills html">80%</div>
+</div>
+<p> CSS </p>
+<div class="skills css">80%</div>
+</div>
+<p> C </p>
+<div class="skills c">75%</div>
+</div>
+
+

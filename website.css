@@ -1,0 +1,58 @@
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body
+{
+background-color: whitesmoke;
+font-family: Georgia, Serif;
+}
+.profile-img{
+width:40%;
+float:right;
+height:100%;
+}
+.about{
+margin-left:15px;
+}
+.profile-info{
+width:60%;
+height:100vh;
+float:left;
+padding:0 30px;
+}
+h1{
+margin-top: 50px;
+margin-bottom: 30px;
+}
+.social-media img{
+height:30px;
+
+*
+{
+box-sizing: border-box
+}
+.container{
+width:100%;
+background-colour: grey;
+}
+.skills{
+text-align:right;
+padding-top: 10px;
+padding-bottom: 10px;
+color: white;
+}
+.html{
+width: 80%;
+background-color: pink;
+}
+.css{
+width: 80%;
+background-color: thistle;
+}
+.c{
+width:75%
+background-color: MistyRose;
+}
